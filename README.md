@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch3t4n87" alt="ch3t4n87" /></a> </p>
 
-- 🔭 I’m currently working on **EquiXchange**
+- 🔭 I’m working on **EquiXchange**, a full-stack stock monitoring tool.
 
-- 🌱 I’m currently learning **I’m enhancing my skills in React.js, focusing on advanced features like hooks, context API, and state management to create more dynamic and efficient user interfaces.**
+- 🌱 **I’m enhancing my skills in React.js, focusing on advanced features like hooks, context API, and state management to create more dynamic and efficient user interfaces.**
 
 - 👯 I’m looking to collaborate on **Open-source contributions in JavaScript, Node.js, and React.**
 
-- 🤝 I’m looking for help with **If you have experience with creating high-performing applications or tackling complex backend challenges, I’d love to learn from you!**
+- 🤝 **If you have experience with creating high-performing applications or tackling complex backend challenges, I’d love to learn from you!**
 
 - 💬 Ask me about **mongodb, express, react and node**
 
